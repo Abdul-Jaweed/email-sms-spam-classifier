@@ -7,13 +7,6 @@ import nltk
 from nltk.stem.porter import PorterStemmer
 import sys
 
-nltk.download('punkt')
-
-from nltk import word_tokenize,sent_tokenize
-
-
-
-
 st.sidebar.header('About')
 st.sidebar.text('''Heya it`s me Abdul Jaweed. 
 I created a email & sms spam
