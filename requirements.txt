@@ -1,0 +1,6 @@
+streamlit
+scipy
+nltk
+scipy
+scikit-learn
+gunicorn
