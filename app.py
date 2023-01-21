@@ -7,8 +7,6 @@ import nltk
 from nltk.stem.porter import PorterStemmer
 import sys
 
-
-import nltk
 nltk.download('punkt')
 
 from nltk import word_tokenize,sent_tokenize
